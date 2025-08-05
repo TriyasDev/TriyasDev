@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi there 👋 My name is Triyas
 
 <!--
 **TriyasDev/TriyasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning [**Laravel**](https://Laravel.com)
+- 📫 How to reach me: **iyastriyas2@gmail.com**
+
+![Happy](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ1cXUweGZzaHF3NWtsazI2Z2xxNHJzZHVhbHl0MTVvOG1mYmlhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ndAvMC5LFPNMCzq7m/giphy.gif)
