@@ -1,20 +1,39 @@
-## Hi there 👋 My name is Triyas
+## 👋 Hi, I'm Triyas Prasetya
 
-<!--
-**TriyasDev/TriyasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- 
-Here are some ideas to get you started:
+🎓 A passionate learner exploring the world of **Web Development** and **Game Development** step by step.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 🌱 I’m currently learning [**Laravel**](https://Laravel.com)
-- 📫 How to reach me: **iyastriyas2@gmail.com**
+---
 
-![Happy](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ1cXUweGZzaHF3NWtsazI2Z2xxNHJzZHVhbHl0MTVvOG1mYmlhYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ndAvMC5LFPNMCzq7m/giphy.gif)
+### 📬 Reach Me
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_iyass03/)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/triyas-prasetya-89822a347)  [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iyastriyas2@gmail.com)  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TriyasDev)
+
+---
+
+### 🚧 Currently Learning
+I'm currently diving into:
+- ⚙️ **Laravel** for backend development  
+- 🎮 **Godot Engine** for 2D/3D game creation
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
+
+---
+
+### 🛠️ Tech I’ve Started Learning
+> These are the technologies I have basic experience with and am actively improving:
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+
+---
+
+### 🎯 My Future Goals
+> Tools and languages I aim to master over time:
+
+- Laravel  
+- PHP  
+- Tailwind CSS  
+- Godot Engine  
+- Git & GitHub  
+
+---
+
+> ⚡ *I believe in learning by building, failing forward, and staying consistent!*
