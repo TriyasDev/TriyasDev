@@ -12,7 +12,8 @@
 ### 🚧 Currently Learning
 I'm currently diving into:
 - ⚙️ **Laravel** for backend development
-- 🎮 **Godot Engine** for 2D/3D game creation
+- 🎮 **Godot Engine**
+- 🎮 **Roblox Studio Engine**
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white)
 
