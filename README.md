@@ -1,4 +1,4 @@
 I'm currently diving into:
-- [![Made with Godot](https://shields.io)](https://godotengine.org) **Godot Engine**
+-  ![Godot](https://shields.io)  **Godot Engine**
 -    **Flutter**
 -    **Nixos**
