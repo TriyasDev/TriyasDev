@@ -26,9 +26,12 @@ first line of code.
 
 | Area | Tools | Why I use it |
 |---|---|---|
-| 🎮 **Game development** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white) | Turning ideas into playable prototypes quickly |
-| ⚙️ **Languages** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) | Simplicity with Go, performance and safety with Rust, reach with JavaScript |
-| 🎨 **Styling** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | Clean, consistent interfaces without repetitive CSS |
+| **Game Dev** | ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white) | Open source and easy to learn |
+| **Mobile App** | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | One codebase for both Android and iOS |
+| **Backend** | ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white) | Minimal boilerplate with Express, automatic docs and high speed with FastAPI |
+| **Frontend** | ![Next JS](https://img.shields.io/badge/Next-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white) | Production-ready features with Next.js, zero virtual-DOM bloat with Svelte |
+| **Languages** | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | Simplicity with Go, reach with JavaScript |
+| **Styling** | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) | Clean, consistent interfaces without repetitive CSS |
 
 ## Currently
 
@@ -36,10 +39,7 @@ first line of code.
 - 🎯 **Focusing on:** leading projects with clear goals and less wasted effort.
 - 🤖 **Exploring:** how AI can take over repetitive work so I can spend time on decisions.
 
-## AI Partners I'm Proud Of
-
+## Best partner 
 I work alongside AI as a force multiplier, not a replacement for thinking.
 
-| Partner | How we work together |
-|---|---|
-| ![Claude](https://img.shields.
+![Claude](https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white) ![Google Gemini](https://img.shields.io/badge/google%20gemini-%238E75B2.svg?style=for-the-badge&logo=google%20gemini&logoColor=white)
