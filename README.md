@@ -32,6 +32,6 @@ first line of code.
 
 I work alongside AI as a force multiplier, not a replacement for thinking:
 
-- **Claude**: my thinking and coding partner
+- **Claude**: my partner discuss and look around to find best solution
 - **Antigravity**: agentic AI development
 - **Google AI Studio**: prototyping and experimenting with ideas
